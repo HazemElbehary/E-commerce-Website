@@ -1,0 +1,45 @@
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\bin\Debug\net8.0\LinkDev.Talabat.Core.Domain.deps.json
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\bin\Debug\net8.0\LinkDev.Talabat.Core.Domain.dll
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\bin\Debug\net8.0\LinkDev.Talabat.Core.Domain.pdb
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.AssemblyInfoInputs.cache
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.AssemblyInfo.cs
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.csproj.CoreCompileInputs.cache
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.sourcelink.json
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.dll
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\refint\LinkDev.Talabat.Core.Domain.dll
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.pdb
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\ref\LinkDev.Talabat.Core.Domain.dll
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.csproj.AssemblyReference.cache
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\bin\Debug\net8.0\LinkDev.Talabat.Core.Domain.deps.json
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\bin\Debug\net8.0\LinkDev.Talabat.Core.Domain.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\bin\Debug\net8.0\LinkDev.Talabat.Core.Domain.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\bin\Debug\net8.0\LinkDev.Talabat.Shared.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\bin\Debug\net8.0\LinkDev.Talabat.Shared.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.csproj.AssemblyReference.cache
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.AssemblyInfoInputs.cache
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.AssemblyInfo.cs
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.csproj.CoreCompileInputs.cache
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.sourcelink.json
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev..CDCC204A.Up2Date
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\refint\LinkDev.Talabat.Core.Domain.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\ref\LinkDev.Talabat.Core.Domain.dll
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\bin\Debug\net8.0\LinkDev.Talabat.Core.Domain.deps.json
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\bin\Debug\net8.0\LinkDev.Talabat.Core.Domain.dll
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\bin\Debug\net8.0\LinkDev.Talabat.Core.Domain.pdb
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\bin\Debug\net8.0\LinkDev.Talabat.Shared.dll
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\bin\Debug\net8.0\LinkDev.Talabat.Shared.pdb
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.csproj.AssemblyReference.cache
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.AssemblyInfoInputs.cache
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.AssemblyInfo.cs
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.csproj.CoreCompileInputs.cache
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.sourcelink.json
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev..CDCC204A.Up2Date
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.dll
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\refint\LinkDev.Talabat.Core.Domain.dll
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\LinkDev.Talabat.Core.Domain.pdb
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Domain\obj\Debug\net8.0\ref\LinkDev.Talabat.Core.Domain.dll

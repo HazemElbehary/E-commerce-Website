@@ -1,0 +1,696 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\DashBoard.csproj": {}
+  },
+  "projects": {
+    "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\DashBoard.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\DashBoard.csproj",
+        "projectName": "DashBoard",
+        "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\DashBoard.csproj",
+        "packagesPath": "C:\\Users\\Hazem Elbehary\\.nuget\\packages\\",
+        "outputPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hazem Elbehary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.APIs\\LinkDev.Talabat.APIs.csproj": {
+                "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.APIs\\LinkDev.Talabat.APIs.csproj"
+              },
+              "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Infrastructure\\LinkDev.Talabat.Infrastructure.csproj": {
+                "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Infrastructure\\LinkDev.Talabat.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.APIs.Controllers\\LinkDev.Talabat.APIs.Controllers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.APIs.Controllers\\LinkDev.Talabat.APIs.Controllers.csproj",
+        "projectName": "LinkDev.Talabat.APIs.Controllers",
+        "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.APIs.Controllers\\LinkDev.Talabat.APIs.Controllers.csproj",
+        "packagesPath": "C:\\Users\\Hazem Elbehary\\.nuget\\packages\\",
+        "outputPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.APIs.Controllers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hazem Elbehary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Application.Abstraction\\LinkDev.Talabat.Core.Application.Abstraction.csproj": {
+                "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Application.Abstraction\\LinkDev.Talabat.Core.Application.Abstraction.csproj"
+              },
+              "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Domain\\LinkDev.Talabat.Core.Domain.csproj": {
+                "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Domain\\LinkDev.Talabat.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.APIs\\LinkDev.Talabat.APIs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.APIs\\LinkDev.Talabat.APIs.csproj",
+        "projectName": "LinkDev.Talabat.APIs",
+        "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.APIs\\LinkDev.Talabat.APIs.csproj",
+        "packagesPath": "C:\\Users\\Hazem Elbehary\\.nuget\\packages\\",
+        "outputPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.APIs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hazem Elbehary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.APIs.Controllers\\LinkDev.Talabat.APIs.Controllers.csproj": {
+                "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.APIs.Controllers\\LinkDev.Talabat.APIs.Controllers.csproj"
+              },
+              "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Application.Abstraction\\LinkDev.Talabat.Core.Application.Abstraction.csproj": {
+                "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Application.Abstraction\\LinkDev.Talabat.Core.Application.Abstraction.csproj"
+              },
+              "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Application\\LinkDev.Talabat.Core.Application.csproj": {
+                "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Application\\LinkDev.Talabat.Core.Application.csproj"
+              },
+              "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Infrastructure.Persistence\\LinkDev.Talabat.Infrastructure.Persistence.csproj": {
+                "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Infrastructure.Persistence\\LinkDev.Talabat.Infrastructure.Persistence.csproj"
+              },
+              "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Infrastructure\\LinkDev.Talabat.Infrastructure.csproj": {
+                "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Infrastructure\\LinkDev.Talabat.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Application.Abstraction\\LinkDev.Talabat.Core.Application.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Application.Abstraction\\LinkDev.Talabat.Core.Application.Abstraction.csproj",
+        "projectName": "LinkDev.Talabat.Core.Application.Abstraction",
+        "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Application.Abstraction\\LinkDev.Talabat.Core.Application.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\Hazem Elbehary\\.nuget\\packages\\",
+        "outputPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Application.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hazem Elbehary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Shared\\LinkDev.Talabat.Shared.csproj": {
+                "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Shared\\LinkDev.Talabat.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Application\\LinkDev.Talabat.Core.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Application\\LinkDev.Talabat.Core.Application.csproj",
+        "projectName": "LinkDev.Talabat.Core.Application",
+        "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Application\\LinkDev.Talabat.Core.Application.csproj",
+        "packagesPath": "C:\\Users\\Hazem Elbehary\\.nuget\\packages\\",
+        "outputPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hazem Elbehary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Application.Abstraction\\LinkDev.Talabat.Core.Application.Abstraction.csproj": {
+                "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Application.Abstraction\\LinkDev.Talabat.Core.Application.Abstraction.csproj"
+              },
+              "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Domain\\LinkDev.Talabat.Core.Domain.csproj": {
+                "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Domain\\LinkDev.Talabat.Core.Domain.csproj"
+              },
+              "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Infrastructure.Persistence\\LinkDev.Talabat.Infrastructure.Persistence.csproj": {
+                "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Infrastructure.Persistence\\LinkDev.Talabat.Infrastructure.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Domain\\LinkDev.Talabat.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Domain\\LinkDev.Talabat.Core.Domain.csproj",
+        "projectName": "LinkDev.Talabat.Core.Domain",
+        "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Domain\\LinkDev.Talabat.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\Hazem Elbehary\\.nuget\\packages\\",
+        "outputPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hazem Elbehary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Shared\\LinkDev.Talabat.Shared.csproj": {
+                "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Shared\\LinkDev.Talabat.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Infrastructure.Persistence\\LinkDev.Talabat.Infrastructure.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Infrastructure.Persistence\\LinkDev.Talabat.Infrastructure.Persistence.csproj",
+        "projectName": "LinkDev.Talabat.Infrastructure.Persistence",
+        "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Infrastructure.Persistence\\LinkDev.Talabat.Infrastructure.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Hazem Elbehary\\.nuget\\packages\\",
+        "outputPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Infrastructure.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hazem Elbehary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Application.Abstraction\\LinkDev.Talabat.Core.Application.Abstraction.csproj": {
+                "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Application.Abstraction\\LinkDev.Talabat.Core.Application.Abstraction.csproj"
+              },
+              "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Domain\\LinkDev.Talabat.Core.Domain.csproj": {
+                "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Domain\\LinkDev.Talabat.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Infrastructure\\LinkDev.Talabat.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Infrastructure\\LinkDev.Talabat.Infrastructure.csproj",
+        "projectName": "LinkDev.Talabat.Infrastructure",
+        "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Infrastructure\\LinkDev.Talabat.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Hazem Elbehary\\.nuget\\packages\\",
+        "outputPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hazem Elbehary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Application\\LinkDev.Talabat.Core.Application.csproj": {
+                "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Application\\LinkDev.Talabat.Core.Application.csproj"
+              },
+              "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Domain\\LinkDev.Talabat.Core.Domain.csproj": {
+                "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Core.Domain\\LinkDev.Talabat.Core.Domain.csproj"
+              },
+              "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Shared\\LinkDev.Talabat.Shared.csproj": {
+                "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Shared\\LinkDev.Talabat.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.8.16, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[47.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Shared\\LinkDev.Talabat.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Shared\\LinkDev.Talabat.Shared.csproj",
+        "projectName": "LinkDev.Talabat.Shared",
+        "projectPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Shared\\LinkDev.Talabat.Shared.csproj",
+        "packagesPath": "C:\\Users\\Hazem Elbehary\\.nuget\\packages\\",
+        "outputPath": "D:\\Route\\Route Content\\API\\Session 01 - Copy\\LinkDev.Talabat\\LinkDev.Talabat.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hazem Elbehary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

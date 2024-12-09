@@ -1,0 +1,45 @@
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\bin\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.deps.json
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\bin\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.dll
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\bin\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.pdb
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.AssemblyInfoInputs.cache
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.AssemblyInfo.cs
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.csproj.CoreCompileInputs.cache
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.sourcelink.json
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.dll
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\refint\LinkDev.Talabat.Core.Application.Abstraction.dll
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.pdb
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\ref\LinkDev.Talabat.Core.Application.Abstraction.dll
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.csproj.AssemblyReference.cache
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.csproj.AssemblyReference.cache
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.AssemblyInfoInputs.cache
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.AssemblyInfo.cs
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.csproj.CoreCompileInputs.cache
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.sourcelink.json
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\bin\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.deps.json
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\bin\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\bin\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\bin\Debug\net8.0\LinkDev.Talabat.Shared.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\bin\Debug\net8.0\LinkDev.Talabat.Shared.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev..0930ED17.Up2Date
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\refint\LinkDev.Talabat.Core.Application.Abstraction.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\ref\LinkDev.Talabat.Core.Application.Abstraction.dll
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\bin\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.deps.json
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\bin\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.dll
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\bin\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.pdb
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\bin\Debug\net8.0\LinkDev.Talabat.Shared.dll
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\bin\Debug\net8.0\LinkDev.Talabat.Shared.pdb
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.csproj.AssemblyReference.cache
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.AssemblyInfoInputs.cache
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.AssemblyInfo.cs
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.csproj.CoreCompileInputs.cache
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.sourcelink.json
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev..0930ED17.Up2Date
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.dll
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\refint\LinkDev.Talabat.Core.Application.Abstraction.dll
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.pdb
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Core.Application.Abstraction\obj\Debug\net8.0\ref\LinkDev.Talabat.Core.Application.Abstraction.dll

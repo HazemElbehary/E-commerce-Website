@@ -1,0 +1,123 @@
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\appsettings.Development.json
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\appsettings.json
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\DashBoard.staticwebassets.runtime.json
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\DashBoard.exe
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\DashBoard.deps.json
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\DashBoard.runtimeconfig.json
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\DashBoard.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\DashBoard.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.AssemblyInfoInputs.cache
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.AssemblyInfo.cs
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.csproj.CoreCompileInputs.cache
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.MvcApplicationPartsAssemblyInfo.cache
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.RazorAssemblyInfo.cache
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.RazorAssemblyInfo.cs
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.sourcelink.json
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\staticwebassets.build.json
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\staticwebassets.development.json
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\staticwebassets\msbuild.DashBoard.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\staticwebassets\msbuild.build.DashBoard.props
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DashBoard.props
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DashBoard.props
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\scopedcss\bundle\DashBoard.styles.css
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\scopedcss\projectbundle\DashBoard.bundle.scp.css
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\refint\DashBoard.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.genruntimeconfig.cache
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\ref\DashBoard.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\LinkDev.Talabat.APIs.deps.json
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\LinkDev.Talabat.APIs.runtimeconfig.json
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\LinkDev.Talabat.APIs.staticwebassets.runtime.json
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\LinkDev.Talabat.APIs.exe
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\AutoMapper.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Azure.Core.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Azure.Identity.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Castle.Core.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\LinkDev.Talabat.APIs.Controllers.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\LinkDev.Talabat.APIs.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\LinkDev.Talabat.Core.Application.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\LinkDev.Talabat.Core.Domain.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\LinkDev.Talabat.Infrastructure.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\LinkDev.Talabat.Infrastructure.Persistence.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\LinkDev.Talabat.APIs.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\LinkDev.Talabat.APIs.Controllers.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\LinkDev.Talabat.Core.Application.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\LinkDev.Talabat.Core.Domain.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\LinkDev.Talabat.Infrastructure.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\LinkDev.Talabat.Infrastructure.Persistence.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.csproj.AssemblyReference.cache
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.csproj.Up2Date
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\Stripe.net.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\LinkDev.Talabat.Shared.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\bin\Debug\net8.0\LinkDev.Talabat.Shared.pdb
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.csproj.AssemblyReference.cache
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.AssemblyInfoInputs.cache
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.AssemblyInfo.cs
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.csproj.CoreCompileInputs.cache
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.MvcApplicationPartsAssemblyInfo.cs
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.MvcApplicationPartsAssemblyInfo.cache
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.RazorAssemblyInfo.cache
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.RazorAssemblyInfo.cs
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.sourcelink.json
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.dll
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\refint\DashBoard.dll
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\DashBoard\obj\Debug\net8.0\DashBoard.pdb

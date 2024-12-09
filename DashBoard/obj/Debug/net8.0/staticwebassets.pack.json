@@ -1,0 +1,369 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DashBoard.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DashBoard.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\images\\products\\blueberry-cheesecake.png",
+      "PackagePath": "staticwebassets\\images\\products\\blueberry-cheesecake.png"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\images\\products\\double-caramel-frappuccino.png",
+      "PackagePath": "staticwebassets\\images\\products\\double-caramel-frappuccino.png"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\images\\products\\double-smoked-bacon-cheddar-and-egg-sandwich.png",
+      "PackagePath": "staticwebassets\\images\\products\\double-smoked-bacon-cheddar-and-egg-sandwich.png"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\images\\products\\dragon-drink-starbucks-refreshers-beverage-with-oleato-golden-foam.png",
+      "PackagePath": "staticwebassets\\images\\products\\dragon-drink-starbucks-refreshers-beverage-with-oleato-golden-foam.png"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\images\\products\\glazed-donuts.png",
+      "PackagePath": "staticwebassets\\images\\products\\glazed-donuts.png"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\images\\products\\greek-salad.png",
+      "PackagePath": "staticwebassets\\images\\products\\greek-salad.png"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\images\\products\\honey-cake.png",
+      "PackagePath": "staticwebassets\\images\\products\\honey-cake.png"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\images\\products\\hot-caramel-macchiato.png",
+      "PackagePath": "staticwebassets\\images\\products\\hot-caramel-macchiato.png"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\images\\products\\iced-black-tea-lemonade.png",
+      "PackagePath": "staticwebassets\\images\\products\\iced-black-tea-lemonade.png"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\images\\products\\iced-cafe-latte.png",
+      "PackagePath": "staticwebassets\\images\\products\\iced-cafe-latte.png"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\images\\products\\iced-caramel-macchiato.png",
+      "PackagePath": "staticwebassets\\images\\products\\iced-caramel-macchiato.png"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\images\\products\\iced-chai-tea-latte-with-oleato-golden-foam.png",
+      "PackagePath": "staticwebassets\\images\\products\\iced-chai-tea-latte-with-oleato-golden-foam.png"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\images\\products\\iced-london-fog-tea-latte.png",
+      "PackagePath": "staticwebassets\\images\\products\\iced-london-fog-tea-latte.png"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\images\\products\\iced-matcha-latte.png",
+      "PackagePath": "staticwebassets\\images\\products\\iced-matcha-latte.png"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\images\\products\\iced-matcha.png",
+      "PackagePath": "staticwebassets\\images\\products\\iced-matcha.png"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\images\\products\\turkey-bacon-cheddar-and-egg-white-sandwich.png",
+      "PackagePath": "staticwebassets\\images\\products\\turkey-bacon-cheddar-and-egg-white-sandwich.png"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\images\\products\\white-chocolate-mocha-frappuccino.png",
+      "PackagePath": "staticwebassets\\images\\products\\white-chocolate-mocha-frappuccino.png"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\images\\products\\white-chocolate-mocha.png",
+      "PackagePath": "staticwebassets\\images\\products\\white-chocolate-mocha.png"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Route\\API\\Session 01 - Copy\\LinkDev.Talabat\\DashBoard\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DashBoard.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DashBoard.props",
+      "PackagePath": "build\\DashBoard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DashBoard.props",
+      "PackagePath": "buildMultiTargeting\\DashBoard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DashBoard.props",
+      "PackagePath": "buildTransitive\\DashBoard.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

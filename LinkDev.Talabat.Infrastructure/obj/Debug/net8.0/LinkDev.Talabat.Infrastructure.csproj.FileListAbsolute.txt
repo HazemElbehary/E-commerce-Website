@@ -1,0 +1,64 @@
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Infrastructure.deps.json
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Infrastructure.dll
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Infrastructure.pdb
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.AssemblyInfoInputs.cache
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.AssemblyInfo.cs
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.sourcelink.json
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.dll
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\refint\LinkDev.Talabat.Infrastructure.dll
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.pdb
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\ref\LinkDev.Talabat.Infrastructure.dll
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Core.Domain.dll
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Core.Domain.pdb
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.csproj.AssemblyReference.cache
+D:\Route\API\Session 01\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev..7DBF364A.Up2Date
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.csproj.AssemblyReference.cache
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.AssemblyInfoInputs.cache
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.AssemblyInfo.cs
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.sourcelink.json
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Infrastructure.deps.json
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Infrastructure.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Infrastructure.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Core.Application.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Core.Domain.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Infrastructure.Persistence.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Shared.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Core.Application.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Core.Domain.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Shared.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Infrastructure.Persistence.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev..7DBF364A.Up2Date
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\refint\LinkDev.Talabat.Infrastructure.dll
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.pdb
+D:\Route\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\ref\LinkDev.Talabat.Infrastructure.dll
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Infrastructure.deps.json
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Infrastructure.dll
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Infrastructure.pdb
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.dll
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Core.Application.dll
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Core.Domain.dll
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Infrastructure.Persistence.dll
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Shared.dll
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Core.Application.pdb
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Core.Domain.pdb
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Shared.pdb
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Core.Application.Abstraction.pdb
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\bin\Debug\net8.0\LinkDev.Talabat.Infrastructure.Persistence.pdb
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.csproj.AssemblyReference.cache
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.AssemblyInfoInputs.cache
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.AssemblyInfo.cs
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.sourcelink.json
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev..7DBF364A.Up2Date
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.dll
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\refint\LinkDev.Talabat.Infrastructure.dll
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\LinkDev.Talabat.Infrastructure.pdb
+D:\Route\Route Content\API\Session 01 - Copy\LinkDev.Talabat\LinkDev.Talabat.Infrastructure\obj\Debug\net8.0\ref\LinkDev.Talabat.Infrastructure.dll

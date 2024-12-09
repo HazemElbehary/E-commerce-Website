@@ -1,0 +1,15 @@
+﻿@model RoleViewModel
+
+<h1>Edit Role</h1>
+
+<!-- Edit role -->
+<form method="post" class="form-inline mb-4">
+    <div class="form-group mr-2">
+        <label asp-for="Name" class="sr-only">Role Name</label>
+        <input  class="form-control" asp-for="Name" placeholder="Enter role name">
+    </div>
+    <div class="input-group mt-2 justify-content-center">
+        <button type="submit" class="btn btn-success m-2">Edit</button>
+        <a class="btn btn-secondary m-2" asp-action="Index">Back to index</a>
+    </div>
+</form>

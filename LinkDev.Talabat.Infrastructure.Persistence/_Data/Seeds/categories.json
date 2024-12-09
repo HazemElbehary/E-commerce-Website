@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 0,
+    "CreatedBy": "1",
+    "LastModifiedBy": "1",
+    "Name": "Frappuccino"
+  },
+  {
+    "Id": 0,
+    "CreatedBy": "1",
+    "LastModifiedBy": "1",
+    "Name": "Latte"
+  },
+  {
+    "Id": 0,
+    "CreatedBy": "1",
+    "LastModifiedBy": "1",
+    "Name": "Mocha"
+  },
+  {
+    "Id": 0,
+    "CreatedBy": "1",
+    "LastModifiedBy": "1",
+    "Name": "Macchiato"
+  },
+  {
+    "Id": 0,
+    "CreatedBy": "1",
+    "LastModifiedBy": "1",
+    "Name": "Matcha"
+  },
+  {
+    "Id": 0,
+    "CreatedBy": "1",
+    "LastModifiedBy": "1",
+    "Name": "Cake"
+  },
+  {
+    "Id": 0,
+    "CreatedBy": "1",
+    "LastModifiedBy": "1",
+    "Name": "Donuts"
+  },
+  {
+    "Id": 0,
+    "CreatedBy": "1",
+    "LastModifiedBy": "1",
+    "Name": "Salad"
+  }
+]
